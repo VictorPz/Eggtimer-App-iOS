@@ -1,10 +1,8 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
-## Projeto desenvolvido durante o curso swift bootcamp da App Brewery's ##
+## Project developed during the App Brewery's course: Swift Bootcamp ##
 
 ## ##
-
-## Proposta : ##
 
 # Egg Timer
 
